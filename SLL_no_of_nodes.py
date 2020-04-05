@@ -30,7 +30,7 @@ def Count(head_node):        # variable passed in head of list
     return count
 
 
-# main() function
+# main() function to work
 if __name__ == '__main__':
     n=6
     a=LinkedList()
