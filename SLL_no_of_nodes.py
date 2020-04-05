@@ -42,4 +42,4 @@ if __name__ == '__main__':
         node=Node(x)
         a.insert(node)
         
-    print("number of nodes in SLL is %d"%(Count(a.head)))
+    print("number of nodes in SLL is : %d"%(Count(a.head)))
